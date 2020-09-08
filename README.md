@@ -1,5 +1,3 @@
 # listview
-
-A new Flutter project.
-
 ## Ariq Jusuf
+### Flutter List and Detail Contact 
